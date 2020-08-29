@@ -1,0 +1,3 @@
+/Users/nivswisa/Desktop/Shenkar/SecondYear/Semester2/Object-Oriented Analysis and Design/Final project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nivswisa/Desktop/Shenkar/SecondYear/Semester2/Object-Oriented Analysis and Design/Final project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nivswisa/Desktop/Shenkar/SecondYear/Semester2/Object-Oriented Analysis and Design/Final project/cmake-build-debug/CMakeFiles/Final_project.dir
